@@ -1,0 +1,7 @@
+Para probar la interfaz puede crear usuarios desde el singup con cualquier rol
+
+o usar uno de los predefinidos:
+
+angie@gmail.com  Demo123.  ASE
+lorena@gmail.com Demo123.  COORD
+aldana@gmail.com Demo123.  ADM
